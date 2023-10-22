@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Oppenheimer",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "oppenheimer.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Batman",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "batman.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "La momia",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "laMomia.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Star Wars",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "starwars.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "The Office",
+        "precio": 500,
+        "categoria": "Series",
+        "imagen": "theOffice.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Peaky Blinders",
+        "precio": 500,
+        "categoria": "Series",
+        "imagen": "peakyBlinders.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "troya",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "troya.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Up",
+        "precio": 800,
+        "categoria": "Peliculas",
+        "imagen": "up.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Stranger Things",
+        "precio": 500,
+        "categoria": "Series",
+        "imagen": "strangerthings.jpg"
+    }
+]
